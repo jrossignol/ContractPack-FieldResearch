@@ -1,5 +1,6 @@
 ContractPack-FieldResearch 1.0.1
 - Fixed typo (thanks Barking Sands).
+- Fixed issue with Rare Science contract generating for bodies the player hasn't visited yet (thanks True-Chaos).
 
 ContractPack-FieldResearch 1.0.0
 - Initial release.
