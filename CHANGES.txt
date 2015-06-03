@@ -1,3 +1,6 @@
+ContractPack-FieldResearch 1.0.2
+- Fixed so asteroid sample experiments no longer show up (thanks tomf).  This may be added as their own contract in future.
+
 ContractPack-FieldResearch 1.0.1
 - Fixed typo (thanks Barking Sands).
 - Fixed issue with Rare Science contract generating for bodies the player hasn't visited yet (thanks True-Chaos).
