@@ -1,5 +1,6 @@
 ContractPack-FieldResearch 1.0.2
-- Fixed so asteroid sample experiments no longer show up (thanks tomf).  This may be added as their own contract in future.
+- Fixed so asteroid sample experiments no longer show up (thanks tomf).  They may be added as their own contract in future.
+- Limited biomes for KSC contract.
 
 ContractPack-FieldResearch 1.0.1
 - Fixed typo (thanks Barking Sands).
