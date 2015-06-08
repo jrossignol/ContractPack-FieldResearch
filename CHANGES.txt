@@ -1,3 +1,6 @@
+ContractPack-FieldResearch 1.0.3
+- Better checking for available experiments in experiment and KSC contracts (makes them fail generation less frequently).
+
 ContractPack-FieldResearch 1.0.2
 - Fixed so asteroid sample experiments no longer show up (thanks tomf).  They may be added as their own contract in future.
 - Limited biomes for KSC contract.
