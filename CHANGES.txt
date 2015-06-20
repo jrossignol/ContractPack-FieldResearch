@@ -1,3 +1,6 @@
+ContractPack-FieldResearch 1.0.5
+- Minor fixes for RSS.
+
 ContractPack-FieldResearch 1.0.4
 - Various performance improvements for contract generation.
 
