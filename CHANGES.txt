@@ -1,5 +1,6 @@
 ContractPack-FieldResearch 1.0.7
 - Renamed scaled agent icon to .truecolor to prevent erroneous DDS conversions.
+- Fixed issue with asteroid science being requested for HardScience contract.
 
 ContractPack-FieldResearch 1.0.6
 - Bump rewards up a little bit.
