@@ -1,6 +1,7 @@
 ContractPack-FieldResearch 1.1.0
 - Support for New Horizons.
 - Make Hard Science waypoints more clear that they are only a suggestion.
+- Increased rewards for KSC science contracts.
 
 ContractPack-FieldResearch 1.0.6
 - Bump rewards up a little bit.
