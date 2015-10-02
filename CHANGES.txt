@@ -1,6 +1,9 @@
+ContractPack-FieldResearch 1.1.2
+- No longer offer Station Science contracts that are near-impossible to achieve.
+
 ContractPack-FieldResearch 1.1.1
 - Fixed issue with scientist contract under New Horizons (thanks zeropositivo).
-- Fixed issue with scraps contract  (thanks Nori).
+- Fixed issue with scraps contract (thanks Nori).
 
 ContractPack-FieldResearch 1.1.0
 - Support for New Horizons.
