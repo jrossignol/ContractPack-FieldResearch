@@ -1,5 +1,5 @@
 ContractPack-FieldResearch 1.1.2
-- No longer offer Station Science contracts that are near-impossible to achieve.
+- No longer offer Station Science contracts that are near-impossible to achieve (thanks Mermel).
 
 ContractPack-FieldResearch 1.1.1
 - Fixed issue with scientist contract under New Horizons (thanks zeropositivo).
