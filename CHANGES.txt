@@ -1,3 +1,6 @@
+ContractPack-FieldResearch 1.1.3
+- Strategia integration.
+
 ContractPack-FieldResearch 1.1.2
 - No longer offer Station Science contracts that are near-impossible to achieve (thanks Mermel).
 
