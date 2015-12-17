@@ -1,4 +1,5 @@
 ContractPack-FieldResearch 1.1.3
+- SCANsat support - bodies need a biome scan before Field Research contracts are offered (thanks severedsolo).
 - Strategia integration.
 
 ContractPack-FieldResearch 1.1.2
