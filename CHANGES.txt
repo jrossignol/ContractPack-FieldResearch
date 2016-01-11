@@ -1,8 +1,8 @@
 ContractPack-FieldResearch 1.1.3
 - Strategia integration.
 - SCANsat support - bodies need a biome scan before Field Research contracts are offered (thanks severedsolo).
-- Improvements to Scientist contracts.
 - Rewrote some contracts using the ITERATOR functionality to reduce complexity.
+- Improvements to Scientist contracts.
 
 ContractPack-FieldResearch 1.1.2
 - No longer offer Station Science contracts that are near-impossible to achieve (thanks Mermel).
