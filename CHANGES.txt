@@ -1,3 +1,6 @@
+ContractPack-FieldResearch 1.1.5
+- Fixed various issues with the scientist contracts (thanks smjjames).
+
 ContractPack-FieldResearch 1.1.4
 - Fixed contracts without any parameters (thanks smjjames).
 - Fixed near-duplicate geological and climate contracts (thanks smjjames).
