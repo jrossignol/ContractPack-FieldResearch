@@ -1,3 +1,6 @@
+ContractPack-FieldResearch 1.1.7
+- Fixed uniqness check on 'scrap science' contract (thanks eberkain).
+
 ContractPack-FieldResearch 1.1.6
 - Prevent scientist contract from completing out of order (thanks kcs123).
 - Fix impossible to complete surface samples in Scientist contract (thanks kcs123).
