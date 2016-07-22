@@ -1,4 +1,5 @@
 ContractPack-FieldResearch 1.2.0
+- Rework for Contract Configurator 1.15.x
 - Fixed DDS settings on agency icon.
 
 ContractPack-FieldResearch 1.1.7
