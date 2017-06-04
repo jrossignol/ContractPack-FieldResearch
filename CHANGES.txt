@@ -1,3 +1,6 @@
+ContractPack-FieldResearch 1.2.2
+- Support for GPP (thanks Aelfhe1m).
+
 ContractPack-FieldResearch 1.2.1
 - Added loading tip.
 
