@@ -1,6 +1,7 @@
 ContractPack-FieldResearch 1.2.2
 - Added agent title.
 - Made experiment contract more likely to successfully generate.
+- Minor improvements to contract text.
 
 ContractPack-FieldResearch 1.2.1
 - Support for GPP (thanks Aelfhe1m).
